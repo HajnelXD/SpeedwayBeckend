@@ -1,0 +1,1 @@
+docker-compose run --rm web python -m flake8
